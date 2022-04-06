@@ -8,10 +8,12 @@
 
 <h1> ✨ I am open to ✨ </h1>
 <ul>
-  <li>Work on Android Projects</li>
-  <li>Work on IOS Projects </li>
-  <li>Work on ASP.NET Projects </li>
+  <li>Work on Android projects</li>
+  <li>Work on IOS projects </li>
+  <li>Work on ASP.NET projects </li>
   <li>Work on Node Js projects </li>
+  <li>Work on Angular projects </li>
+  <li>Work on Java mircroservices </li>
   <li>Work on find a solution to complex problems </li>
 </ul>
 
